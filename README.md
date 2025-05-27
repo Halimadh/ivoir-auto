@@ -28,11 +28,12 @@
 - **SQL Server**
 - **Clean Architecture**
 
-## Interfaces
- # Home
- <img width="943" alt="Image" src="https://github.com/user-attachments/assets/60dfa1d6-083a-461b-a635-a71f0ca189d5" />
- # Cars section
+### Interfaces
+ ## Home
+ <img width="943" alt="Image" src="https://github.com/user-attachments/assets/60dfa1d6-083a-461b-a635-a71f0ca189d5" /> **
+ 
+ ## Cars section
  <img width="946" alt="Image" src="https://github.com/user-attachments/assets/72660974-b576-4397-814c-f693f33c09fd" />
 
-<img width="939" alt="Image" src="https://github.com/user-attachments/assets/9c16db11-8dea-4246-b5e6-21e1d8d595e2" />
+ <img width="939" alt="Image" src="https://github.com/user-attachments/assets/9c16db11-8dea-4246-b5e6-21e1d8d595e2" />
 
