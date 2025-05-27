@@ -29,4 +29,6 @@
 - **Clean Architecture**
 
 ## Interfaces
+ # Home
+ <img width="943" alt="Image" src="https://github.com/user-attachments/assets/60dfa1d6-083a-461b-a635-a71f0ca189d5" />
 
