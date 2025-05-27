@@ -28,7 +28,5 @@
 - **SQL Server**
 - **Clean Architecture**
 
-## 📁 Project Structure
+## Interfaces
 
-### Backend
-- `IvoirAuto.API`
